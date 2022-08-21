@@ -1,0 +1,9 @@
+[
+    {
+        "_id": "abc12321",
+        "firstName": "Tom",
+        "lastName": "Smith",
+        "email": "tom_smith@gmail.com",
+        "password": "verystrongpassword"
+    }
+]
